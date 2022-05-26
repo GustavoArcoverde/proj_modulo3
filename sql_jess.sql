@@ -33,3 +33,5 @@ select Player, Pos, K,D,A,KDA,KP from leagueoflegends.worlds2020 order by KDA de
 #Melhor player de 2021 baseado no KDA.
 select Player, Pos, K,D,A,KDA,KP from leagueoflegends.worlds2021 order by KDA desc;
 
+# Qual o melhor player entre os servidores?
+select Invocador, LP, Taxa_de_vitoria from leagueoflegends.lolpágina1 order by LP desc;
