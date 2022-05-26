@@ -3,9 +3,9 @@ select player as jogador, CSPM as farm_por_minuto from `worlds 2020 main event -
 select player as jogador, CSPM as farm_por_minuto from `worlds 2019 main event - player stats` order by CSPM desc limit 1;
 select player as jogador, CSPM as farm_por_minuto from `worlds 2018 main event - player stats` order by CSPM desc limit 1;
 select player as jogador, CSPM as farm_por_minuto from `worlds 2017 main event - player stats` order by CSPM desc limit 1;
-select player as jogador, CSPM as farm_por_minuto from `worlds 2016 main event - player stats` order by CSPM desc limit 1;
-select player as jogador, CSPM as farm_por_minuto from `worlds 2015 main event - player stats` order by CSPM desc limit 1;
-select player as jogador, CSPM as farm_por_minuto from `worlds 2014 main event - player stats` order by CSPM desc limit 1;
+select player as jogador, CSPM as farm_por_minuto from `worlds 2016 - player stats` order by CSPM desc limit 1;
+select player as jogador, CSPM as farm_por_minuto from `worlds 2015 - player stats` order by CSPM desc limit 1;
+select player as jogador, CSPM as farm_por_minuto from `worlds 2014 - player stats` order by CSPM desc limit 1;
 select player as jogador, CSPM as farm_por_minuto from `worlds season 1 - player stats` order by CSPM desc limit 1;
 select player as jogador, CSPM as farm_por_minuto from `worlds season 2 - player stats` order by CSPM desc limit 1;
 select player as jogador, CSPM as farm_por_minuto from `worlds season 3 - player stats` order by CSPM desc limit 1;
