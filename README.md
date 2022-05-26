@@ -25,8 +25,8 @@
 
 ## Autores
 
-| [<img src="./IMGs/FT_PERFIL/FTPERFIL.jpg" width=115><br><sub> Alexandre Neckel</sub>](https://github.com/XandiNeckel) |  [<img src="/proj_modulo3/IMGs/FT_PERFIL/Gustavinhu.jpg" width=115><br><sub>Gustavo Arcoverde</sub>](https://github.com/GustavoArcoverde) |  [<img src="/proj_modulo3/IMGs/FT_PERFIL/Paivinha.jpg" width=115><br><sub>Jéssica Paiva</sub>](https://github.com/Jessica-s-paiva) |
-| :---: | :---: | :---: |
+| [<img src="./IMGs/FT_PERFIL/Alexandre.jpg" width=115><br><sub> Alexandre Neckel</sub>](https://github.com/XandiNeckel) |  [<img src="./IMGs/FT_PERFIL/Gustavinhu.jpg" width=115><br><sub>Gustavo Arcoverde</sub>](https://github.com/GustavoArcoverde) |  [<img src="./IMGs/FT_PERFIL/Paivinha.jpg" width=115><br><sub>Jéssica Paiva</sub>](https://github.com/Jessica-s-paiva) |
+| :---: | :---: | :---:
 
-| [<img src="./IMGs/FT_PERFIL/veronica.jpg" width=115><br><sub>Verônica Ribas</sub>](https://github.com/VeronicaRibas) |  [<img src="/proj_modulo3/IMGs/FT_PERFIL/Isaque.jpg" width=115><br><sub>Isaque Rodrigues</sub>](https://github.com/isaquerodrigues00) | 
-| :---: | :---: | :---: |
+| [<img src="./IMGs/FT_PERFIL/veronica.jpg" width=115><br><sub>Verônica Ribas</sub>](https://github.com/VeronicaRibas) |  [<img src="./IMGs/FT_PERFIL/Isaque.jpg" width=115><br><sub>Isaque Rodrigues</sub>](https://github.com/isaquerodrigues00) | 
+| :---: | :---: 
