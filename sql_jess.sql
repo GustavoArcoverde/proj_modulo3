@@ -33,5 +33,18 @@ select Player, Pos, K,D,A,KDA,KP from leagueoflegends.worlds2020 order by KDA de
 #Melhor player de 2021 baseado no KDA.
 select Player, Pos, K,D,A,KDA,KP from leagueoflegends.worlds2021 order by KDA desc;
 
+#Melhor player de todos os mundiais baseado no KDA
+
+
+
 # Qual o melhor player entre os servidores?
 select Invocador, LP, Taxa_de_vitoria from leagueoflegends.lolpágina1 order by LP desc;
+
+#Qual o player com a melhor taxa de vitorias no servidor BR?
+select * from lolpágina1 where liga like 'BR' order by Taxa_de_vitoria desc;
+
+#Qual o melhor player do servidor BR?
+select * from lolpágina1 where liga like 'BR' order by LP desc;
+
+#Qual o campeão mais jogado no servidor BR?
+select * from lolpágina1 where liga like 'BR';
