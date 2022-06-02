@@ -81,7 +81,7 @@ select * from leagueoflegends.worlds2021 where Pos like 'Middle' order by KDA de
 SELECT * FROM leagueoflegends.melhores_mundial order by KDA desc;
 
 # Qual o melhor player entre os servidores?
-select Invocador, LP, Taxa_de_vitoria from leagueoflegends.lolpágina1 order by LP desc;
+select Invocador, LP, Taxa_de_vitoria, liga from leagueoflegends.lolpágina1 order by LP desc;
 
 #Qual o player com a melhor taxa de vitorias no servidor BR?
 select * from lolpágina1 where liga like 'BR' order by Taxa_de_vitoria desc;
